@@ -60,7 +60,7 @@ real-world problems through clean, structured, and insightful code.
 -  __Internship Domain:__  Artifical Intelligence
 -  __Organization:__ CODSOFT
 -  __Duration:__ 15June-15July 2025
--  Status:__ ✅ Successfully  Completed 3 tasks
+-  __Status:__ ✅ Successfully  Completed 3 tasks
 
 
 
