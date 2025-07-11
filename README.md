@@ -10,11 +10,11 @@ real-world problems through clean, structured, and insightful code.
  responses. This will give you a basic understanding of natural
  language processing and conversation flow.
 
- 💻 [View Code](https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task1/Chatbot..py)
-
 # Output: 
  <img width="1920" height="437" alt="Chatbot py - AI_internship - Visual Studio Code 7_11_2025 5_21_15 PM (1)" src="https://github.com/user-attachments/assets/c23fd846-ba3f-4b14-ab38-1d3787d3723f" />
+ 
 
+ 💻 [View Code](https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task1/Chatbot..py)
 
  # ✅ Task 2 - Tic Tac Toe AI 
   I built a classic Tic-Tac-Toe AI game where a human plays against an unbeatable AI.
@@ -25,6 +25,9 @@ real-world problems through clean, structured, and insightful code.
 
   # ✅ Task 4 - Recommendation System 
   A mini project that builds a simple recommendation engine to suggest movies, books, or products based on user preferences. It uses two key machine learning approaches — Content-Based Filtering and Collaborative   Filtering to deliver personalized suggestions.
+
+# Output: 
+![Screenshot_2025-07-11-17-34-31-72_99c04817c0de5652397fc8b56c3b3817](https://github.com/user-attachments/assets/77f1bea8-38d4-487e-97ca-e18ccfdc5fa6)
 
  💻 [View Code](https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task4/recommendation_system.py)
 
@@ -59,7 +62,7 @@ real-world problems through clean, structured, and insightful code.
 
 - Collaborative Filtering techniques
 
-# Internship Overview:
+# 📄 Internship Overview:
 I have completed a virtual internship in Artificial Intelligence with __CODSOFT__, where I worked on practical, hands-on tasks focused on chatbot development and rule-based logics using Python. The internship enhanced my understanding of basic AI concepts, improved my programming skills, and gave me real-world exposure to building interactive systems. Over the course of the program, I have successfully completed 3 tasks.
 
 
