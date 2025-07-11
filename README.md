@@ -10,7 +10,8 @@ real-world problems through clean, structured, and insightful code.
  responses. This will give you a basic understanding of natural
  language processing and conversation flow.
 
- # 💻 Live Demo: [https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task1/Chatbot..py]
+ # 💻 [View Code](#https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task1/Chatbot..py)
+ ## https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task1/Chatbot..py
 
 
  # ✅ Task 2 - Tic Tac Toe AI 
