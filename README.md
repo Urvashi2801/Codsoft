@@ -56,11 +56,8 @@ real-world problems through clean, structured, and insightful code.
 
 - Collaborative Filtering techniques
 
-# Internship Details :
--  __Internship Domain:__  Artifical Intelligence
--  __Organization:__ CODSOFT
--  __Duration:__ 15June-15July 2025
--  __Status:__ ✅ Successfully  Completed 3 tasks
+# Internship Overview:
+I have completed a virtual internship in Artificial Intelligence with __CODSOFT__, where I worked on practical, hands-on tasks focused on chatbot development and rule-based logics using Python. The internship enhanced my understanding of basic AI concepts, improved my programming skills, and gave me real-world exposure to building interactive systems. Over the course of the program, I have successfully completed 3 tasks.
 
 
 
