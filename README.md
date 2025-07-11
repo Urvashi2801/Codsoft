@@ -12,8 +12,9 @@ real-world problems through clean, structured, and insightful code.
 
  💻 [View Code](https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task1/Chatbot..py)
 
-![Image Alt](<img width="1920" height="437" alt="Chatbot py - AI_internship - Visual Studio Code 7_11_2025 5_21_15 PM (1)" src="https://github.com/user-attachments/assets/0f70efda-1f58-44a8-abd1-2a7f0e6ea69b" />)
- 
+# Output: 
+ <img width="1920" height="437" alt="Chatbot py - AI_internship - Visual Studio Code 7_11_2025 5_21_15 PM (1)" src="https://github.com/user-attachments/assets/c23fd846-ba3f-4b14-ab38-1d3787d3723f" />
+
 
  # ✅ Task 2 - Tic Tac Toe AI 
   I built a classic Tic-Tac-Toe AI game where a human plays against an unbeatable AI.
