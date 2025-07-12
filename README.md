@@ -12,15 +12,19 @@ real-world problems through clean, structured, and insightful code.
 
 # Output: 
  <img width="1920" height="437" alt="Chatbot py - AI_internship - Visual Studio Code 7_11_2025 5_21_15 PM (1)" src="https://github.com/user-attachments/assets/c23fd846-ba3f-4b14-ab38-1d3787d3723f" />
- 
 
+ 
  💻 [View Code](https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task1/Chatbot..py)
 
  # ✅ Task 2 - Tic Tac Toe AI 
   I built a classic Tic-Tac-Toe AI game where a human plays against an unbeatable AI.
   Through this project, I learned key concepts of game theory, and implemented the Minimax algorithm with Alpha-Beta Pruning to create a smart AI that always plays optimally.
 
- # 💻 Live Demo:
+  # Output:
+  ![e7be2d04-3c22-4a1b-87e3-340a7a0e4c00](https://github.com/user-attachments/assets/ef5753be-516f-4f8d-9e17-900aeffc2ea7)
+
+
+ 💻 [View Code](https://github.com/Urvashi2801/Codsoft/blob/main/Codsoft_Task2/TicTacToe.py)
 
 
   # ✅ Task 4 - Recommendation System 
